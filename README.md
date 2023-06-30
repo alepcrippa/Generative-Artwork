@@ -7,4 +7,4 @@ Browse [this website](https://drawwithcode.github.io/) if you want to know more 
   <img src="cover.png" width="300" />
 </p>
 
-You can find here the resulting artwork: [](https://alepcrippa.github.io/Generative-Artwork/)
+You can find [here](https://alepcrippa.github.io/Generative-Artwork/) the resulting artwork.
