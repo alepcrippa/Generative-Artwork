@@ -6,3 +6,5 @@ Browse [this website](https://drawwithcode.github.io/) if you want to know more 
 <p align="center">
   <img src="cover.png" width="300" />
 </p>
+
+You can find here the resulting artwork: [](https://alepcrippa.github.io/Generative-Artwork/)
